@@ -6,7 +6,11 @@
 
 ### 效果图
 
-![纵向排列](https://github.com/pao11/WheelView3DRelease/blob/master/imgs/1122.png)
+<table>
+    <tr>
+        <td><img src="/imgs/1122.png"></td>
+    </tr>
+</table>
 
 ## Gradle 添加引用
 ```
