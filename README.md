@@ -1,5 +1,5 @@
 [![](https://jitpack.io/v/pao11/WheelView3DRelease.svg)](https://jitpack.io/#pao11/WheelView3DRelease)
-
+[![Travis](https://img.shields.io/badge/Gradle-2.3.1-brightgreen.svg)]()
 
 # WheelView-3D
 ### Camera, Matrix 实现WheelView 3D效果
